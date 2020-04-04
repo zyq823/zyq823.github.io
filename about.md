@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+I am a forth year Ph.D. student in the computer science and engineering department at TAMU.
