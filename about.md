@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-I am a first year Master's student in the computer science and engineering department at TAMU.
+I am a first year Master of Science student researcher in the CSCE department at Texas A&M.
 
-https://www.linkedin.com/in/yiqing-z-3a228b13b
+https://www.linkedin.com/in/yiqing-zhao-yqz
